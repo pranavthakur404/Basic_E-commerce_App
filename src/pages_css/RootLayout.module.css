@@ -1,0 +1,59 @@
+.header {
+  background-color: #fff;
+  box-shadow: 0px 1px 3px 0px silver;
+}
+.header .topSection {
+  font-size: 12px;
+}
+.header .topSection {
+  padding: 10px 0px 10px 10px;
+}
+.topSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .topSection ul {
+  display: flex;
+  list-style-type: none;
+  gap: 10px;
+}
+.topSection button {
+  padding: 5px 10px;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.logoutBtn {
+  background-color: orangered;
+}
+.loginBtn {
+  background: rgb(1, 190, 1);
+}
+.nav {
+  padding: 10px 0px;
+}
+.nav img {
+  height: auto;
+  width: 200px;
+  max-width: 100%;
+}
+.bottomSection {
+  border-top: 1px solid silver;
+  padding: 10px 54px;
+}
+.bottomSection ul {
+  display: flex;
+  list-style-type: none;
+}
+.bottomSection ul li {
+  font-size: 14px;
+  margin-right: 20px;
+}
+.bottomSection ul li a {
+  text-decoration: none;
+  color: #000;
+}

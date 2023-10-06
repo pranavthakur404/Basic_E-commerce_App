@@ -1,0 +1,16 @@
+.container {
+  width: 95%;
+  background-color: white;
+  padding: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  border-radius: 10px;
+}
+.categoryList {
+  width: 100%;
+  padding: 10px 5px;
+}
+.container h3 {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid black;
+}

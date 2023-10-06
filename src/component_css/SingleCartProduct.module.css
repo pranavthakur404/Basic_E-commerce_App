@@ -1,0 +1,35 @@
+.singleCart {
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+}
+.singleCart img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+.title {
+  font-weight: 700;
+}
+.price {
+  font-weight: 700;
+}
+.quantity {
+  font-weight: 700;
+  padding: 0px 20px;
+}
+.singleCart button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.deleteBtn {
+  font-size: 18px;
+  margin-right: 20px;
+}
